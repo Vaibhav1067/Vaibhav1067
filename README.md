@@ -121,6 +121,7 @@ Speech and language practice for people with aphasia after a stroke, kept within
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ADD-YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F78166"/></a>
+  <a href="mailto:vaibhavkushwaha66@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F78166"/></a>
   <a href="https://github.com/Vaibhav1067"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F78166"/></a>
 </p>
 
